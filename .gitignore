@@ -1,0 +1,8 @@
+/ssegap
+/ssegap.exe
+/backpressure
+/backpressure.exe
+*.test
+*.out
+coverage.txt
+coverage.html
