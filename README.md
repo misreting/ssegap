@@ -76,7 +76,7 @@ like success.**
 ## Install
 
 ```sh
-go get github.com/__GH_OWNER__/ssegap
+go get github.com/agentscope-ai-java/ssegap
 ```
 
 Go >= 1.21 (developed and tested against 1.27). Zero runtime dependencies —
@@ -92,7 +92,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/__GH_OWNER__/ssegap"
+	"github.com/agentscope-ai-java/ssegap"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/__GH_OWNER__/ssegap
+module github.com/agentscope-ai-java/ssegap
 
 go 1.27.1
 

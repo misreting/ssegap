@@ -30,7 +30,7 @@ import (
 	"sync"
 	"time"
 
-	ssegap "github.com/__GH_OWNER__/ssegap"
+	ssegap "github.com/agentscope-ai-java/ssegap"
 )
 
 const (
